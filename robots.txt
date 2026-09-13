@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://northform.co/sitemap.xml
